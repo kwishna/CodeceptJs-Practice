@@ -1,0 +1,20 @@
+{
+  "name": "CodeceptJsLearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^6.10.10",
+    "codeceptjs": "^3.0.2",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.5.0",
+    "webdriverio": "^6.10.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
